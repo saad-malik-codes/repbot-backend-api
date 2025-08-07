@@ -7,7 +7,7 @@ export interface Env {
     SECRET: SecretsStoreSecret;
 }
 
-// # List all users
+// # List all user
 // GET /rest/users
 
 // # Get filtered and sorted users
